@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GstvCQ
+- 👀 I’m interested in physics 
+- 🌱 I’m currently learning python for data science
